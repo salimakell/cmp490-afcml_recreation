@@ -1,0 +1,41 @@
+{
+ "B": {
+  "label": "B",
+  "pos_rate": 0.1224,
+  "heldout_acc": 0.9613918603221443,
+  "heldout_balanced_acc": 0.5528725352412589,
+  "always_zero_acc": 0.9623755071929178,
+  "cluster_sizes": [
+   5068,
+   4979,
+   4942,
+   5011
+  ]
+ },
+ "A_next": {
+  "label": "A_next",
+  "pos_rate": 0.50235,
+  "heldout_acc": 1.0,
+  "heldout_balanced_acc": 1.0,
+  "always_zero_acc": 0.49765000000000004,
+  "cluster_sizes": [
+   5068,
+   4979,
+   4942,
+   5011
+  ]
+ },
+ "A_same": {
+  "label": "A_same",
+  "pos_rate": 0.50235,
+  "heldout_acc": 0.4949010197960408,
+  "heldout_balanced_acc": 0.4945005425165346,
+  "always_zero_acc": 0.49750049990002,
+  "cluster_sizes": [
+   5068,
+   4979,
+   4942,
+   5011
+  ]
+ }
+}
